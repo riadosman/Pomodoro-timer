@@ -29,3 +29,8 @@ button{
     height: 200px;
     font-size: 100px;
 }
+@media (max-width:375px) {
+    button{
+        margin-top: 10px;
+    }
+}
